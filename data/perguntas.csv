@@ -1,0 +1,74 @@
+frase,categoria
+oi,saudacao
+ola,saudacao
+olá,saudacao
+bom dia,saudacao
+boa tarde,saudacao
+boa noite,saudacao
+preciso de ajuda,saudacao
+tenho duvida,saudacao
+duvida,saudacao
+quero atendimento,saudacao
+fala murilo bot,saudacao
+quero ver meu saldo,saldo
+qual meu saldo,saldo
+como consulto saldo,saldo
+saldo da conta,saldo
+consultar saldo agora,saldo
+tenho dinheiro na conta,saldo
+ver saldo disponivel,saldo
+quero ver meu extrato,extrato
+como vejo o extrato,extrato
+historico de movimentacoes,extrato
+baixar extrato,extrato
+extrato da conta,extrato
+quero fazer um pix,pix
+como envio pix,pix
+cadastrar chave pix,pix
+receber pix,pix
+minha chave pix,pix
+pix nao caiu,pix
+perdi meu cartao,cartao
+cartao,cartao
+cartao bloqueado,cartao
+bloquear cartao,cartao
+bloquear,cartao
+desbloquear cartao,cartao
+desbloquear,cartao
+consultar limite,cartao
+limite,cartao
+aumentar limite,cartao
+fatura,cartao
+fatura do cartao,cartao
+segunda via do cartao,cartao
+pagar boleto,pagamento
+como pago uma conta,pagamento
+gerar comprovante,pagamento
+agendar pagamento,pagamento
+segunda via de boleto,pagamento
+quero emprestimo,emprestimo
+simular emprestimo,emprestimo
+taxa de emprestimo,emprestimo
+parcelas do emprestimo,emprestimo
+credito pessoal,emprestimo
+esqueci minha senha,seguranca
+trocar senha,seguranca
+conta invadida,seguranca
+suspeita de fraude,seguranca
+nao reconheco compra,seguranca
+acesso bloqueado,seguranca
+quero falar com atendente,atendimento_humano
+atendimento humano,atendimento_humano
+falar com suporte,atendimento_humano
+abrir chamado,atendimento_humano
+preciso de uma pessoa,atendimento_humano
+obrigado,agradecimento
+obrigada,agradecimento
+valeu,agradecimento
+muito obrigado,agradecimento
+ajudou bastante,agradecimento
+tchau,despedida
+ate mais,despedida
+até mais,despedida
+encerrar conversa,despedida
+finalizar atendimento,despedida

@@ -1,0 +1,58 @@
+{
+  "saudacao": [
+    "Olá! Eu sou o Murilo Bot. Me diga o que você precisa resolver hoje.",
+    "Oi! Posso ajudar com saldo, Pix, cartão, extrato, segurança e atendimento.",
+    "Bem-vindo ao Murilo Bot. Qual dúvida financeira você quer tirar agora?"
+  ],
+  "saldo": [
+    "Você pode consultar o saldo na tela inicial do app ou pelo menu Conta.",
+    "Para ver o saldo, acesse Conta > Saldo disponível. Se quiser, também posso orientar pelo extrato.",
+    "O saldo atualizado fica disponível na área principal da conta após o login."
+  ],
+  "extrato": [
+    "O extrato fica em Conta > Extrato. Você pode filtrar por período e baixar o comprovante.",
+    "Para consultar movimentações, abra o menu Extrato e selecione o intervalo desejado.",
+    "Você consegue visualizar entradas, saídas e transferências na área de Extrato."
+  ],
+  "pix": [
+    "Para fazer um Pix, acesse Pix > Enviar, informe a chave, confira os dados e confirme.",
+    "Se o Pix não caiu, confira o comprovante e o status da transação antes de tentar novamente.",
+    "Você pode cadastrar ou gerenciar suas chaves em Pix > Minhas chaves."
+  ],
+  "cartao": [
+    "Se perdeu o cartão, bloqueie imediatamente em Cartões > Bloquear cartão.",
+    "Você pode consultar limite, fatura e segunda via na área Cartões.",
+    "Para desbloquear, acesse Cartões > Desbloquear e siga a validação de segurança.",
+    "Para bloqueio, limite ou fatura, abra a área Cartões no app e escolha a opção desejada."
+  ],
+  "pagamento": [
+    "Para pagar, vá em Pagamentos, escaneie o código ou cole a linha digitável.",
+    "Depois do pagamento, o comprovante fica salvo em Pagamentos > Comprovantes.",
+    "Você pode agendar pagamentos escolhendo uma data futura antes de confirmar."
+  ],
+  "emprestimo": [
+    "Você pode simular um empréstimo em Crédito > Simular. A proposta depende da análise do perfil.",
+    "Na simulação aparecem valor, parcelas, taxa e custo total antes da contratação.",
+    "Se houver oferta disponível, revise as condições com calma antes de confirmar."
+  ],
+  "seguranca": [
+    "Se suspeitar de fraude, altere sua senha e bloqueie cartões temporariamente pelo app.",
+    "Para recuperar acesso, use Esqueci minha senha na tela de login e siga a validação.",
+    "Compras não reconhecidas devem ser contestadas na área Cartões > Contestação."
+  ],
+  "atendimento_humano": [
+    "Posso encaminhar para um atendente. Informe o assunto principal para agilizar o atendimento.",
+    "Entendi. Vou orientar você a abrir um chamado com o suporte especializado.",
+    "Quando o caso precisa de análise manual, o ideal é abrir um atendimento pelo app."
+  ],
+  "agradecimento": [
+    "Por nada! Quando precisar, o Murilo Bot fica por aqui.",
+    "Fico feliz em ajudar. Se surgir outra dúvida, é só chamar.",
+    "Tudo certo. Conte comigo para resolver as próximas dúvidas."
+  ],
+  "despedida": [
+    "Até mais! Atendimento encerrado por enquanto.",
+    "Combinado. Tenha um ótimo dia!",
+    "Até a próxima. Estarei aqui quando precisar."
+  ]
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Murilo Bot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <main class="chat-shell" aria-label="Chat do Murilo Bot">
+        <header class="header">
+            <div class="avatar" aria-hidden="true">M</div>
+            <div class="header-copy">
+                <h1>Murilo Bot</h1>
+                <p>Atendimento financeiro simples e direto</p>
+                <span class="status">online agora</span>
+            </div>
+        </header>
+
+        <section id="chat-box" aria-live="polite"></section>
+
+        <form id="chat-form" class="input-area">
+            <input
+                type="text"
+                id="pergunta"
+                name="texto"
+                placeholder="Digite sua dúvida..."
+                autocomplete="off"
+                aria-label="Mensagem para o Murilo Bot"
+            >
+            <button class="send-button" type="submit" aria-label="Enviar mensagem">
+                <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                    <path d="M4 12L20 4L16 20L12.5 13.5L4 12Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+                    <path d="M12.5 13.5L20 4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                </svg>
+            </button>
+        </form>
+    </main>
+
+    <script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+</html>
